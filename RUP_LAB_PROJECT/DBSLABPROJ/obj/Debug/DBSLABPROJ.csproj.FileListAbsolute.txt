@@ -1,0 +1,30 @@
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.exe.config
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.exe
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.pdb
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.csprojResolveAssemblyReference.cache
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form1.resources
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Properties.Resources.resources
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.csproj.GenerateResource.Cache
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.exe
+c:\users\adhish\documents\visual studio 2012\Projects\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.pdb
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.exe.config
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.exe
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\DBSLABPROJ.pdb
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\MySql.Data.dll
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\MySql.Web.dll
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\MySql.Data.xml
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\MySql.Web.xml
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.csprojResolveAssemblyReference.cache
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form1.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form2.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Properties.Resources.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.csproj.GenerateResource.Cache
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.csproj.CoreCompileInputs.cache
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.exe
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.pdb
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form3.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form4.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\Geckofx-Core.dll
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\bin\Debug\Geckofx-Winforms.dll
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form5.resources
+C:\Users\AKSHAY\Desktop\DBSLABPROJ\DBSLABPROJ\obj\Debug\DBSLABPROJ.Form6.resources
