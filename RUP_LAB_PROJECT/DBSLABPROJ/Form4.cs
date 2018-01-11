@@ -48,7 +48,7 @@ namespace DBSLABPROJ
         {
             //System.Diagnostics.Process proc = new System.Diagnostics.Process;
             ProcessStartInfo start = new ProcessStartInfo();
-            start.FileName = @"C:/Users/AKSHAY/AppData/Local/Programs/Python/Python35-32/python.exe";
+            start.FileName = @"complete_Location_Where_Your_Python.exe_File_Is_Present";
             start.Arguments = string.Format("{0} {1}", cmd, args);
             start.UseShellExecute = false;
             start.RedirectStandardOutput = true;
@@ -61,7 +61,7 @@ namespace DBSLABPROJ
                 }
             }
             outp.Text = result;            
-            geckoWebBrowser1.Navigate("file:///C:/Users/AKSHAY/Desktop/DBSLABPROJ/DBSLABPROJ/bin/Debug/manipal_map.html");
+            geckoWebBrowser1.Navigate("file:///complete_Location_Where_You_Want_To_Save_map.html");
         }
         
         private void button1_Click(object sender, EventArgs e)
