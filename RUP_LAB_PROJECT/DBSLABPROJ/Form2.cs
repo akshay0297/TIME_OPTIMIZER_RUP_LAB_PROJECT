@@ -29,9 +29,9 @@ namespace DBSLABPROJ
         public void connect1()
         {
             server = "localhost";
-            database = "dbslab";
+            database = "yourDatabaseName";
             uid = "root";
-            passw = "akshay";
+            pass = "yourDataPassword";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + passw + ";";
