@@ -14,7 +14,7 @@ args = sys.argv
 _,source,dest = args
 db = MySQLdb.connect(host="localhost",    # your host, usually localhost
                      user="root",         # your username
-                     passwd="akshay", 	  # your password
+                     passwd="your password", 	  # your password
                      db="dbslab")        # name of the data base
 
 def get_location(cur,name):
