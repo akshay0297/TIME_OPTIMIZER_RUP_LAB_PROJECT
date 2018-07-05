@@ -31,7 +31,7 @@ namespace DBSLABPROJ
             server = "localhost";
             database = "yourDatabaseName";
             uid = "root";
-            pass = "yourDataPassword";
+            pass = "yourPassword";
             string connectionString;
             connectionString = "SERVER=" + server + ";" + "DATABASE=" +
             database + ";" + "UID=" + uid + ";" + "PASSWORD=" + passw + ";";
